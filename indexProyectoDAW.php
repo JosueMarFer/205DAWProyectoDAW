@@ -34,14 +34,17 @@
         <a href="./doc/T6.pdf" target="_blank">
           <h3>TEMA 6. Servidor de aplicaciones</h3>
         </a>
+          <a href="./doc/T6https.pdf" target="_blank">
+          <h3>TEMA 6. HTTPS</h3>
+        </a>
         <a href="./doc/T7.pdf" target="_blank">
           <h3>TEMA 7. Documentación</h3>
         </a>
         <a href="./doc/T8.pdf" target="_blank">
-          <h3>TEMA 6. Servicio LDAP</h3>
+          <h3>TEMA 8. Servicio LDAP</h3>
         </a>
         <a href="./doc/T9.pdf" target="_blank">
-          <h3>TEMA 6. Docker</h3>
+          <h3>TEMA 9. Docker</h3>
         </a>
       </section>
       <div class="return">
