@@ -35,10 +35,13 @@
           <h3>TEMA 6. Servidor de aplicaciones</h3>
         </a>
           <a href="./doc/T6https.pdf" target="_blank">
-          <h3>TEMA 6. HTTPS</h3>
+          <h3>HTTPS</h3>
         </a>
         <a href="./doc/T7.pdf" target="_blank">
           <h3>TEMA 7. Documentación</h3>
+        </a>
+		<a href="./doc/T7DespliegueWordpressHeroku.pdf" target="_blank">
+          <h3>Despliegue wordpress y heroku</h3>
         </a>
         <a href="./doc/T8.pdf" target="_blank">
           <h3>TEMA 8. Servicio LDAP</h3>
